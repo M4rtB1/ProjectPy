@@ -1,3 +1,7 @@
 dfveivbrebajhavhvl alvbvaelva
+<<<<<<< HEAD
 bcajvjlcvjkV jv vhhjjjh
 cccc
+bcajvjlcvjkV jv 
+bbbb
+>>>>>>> c584c6b962e39a6cdc99289fb4a5f297e02ed3c9
